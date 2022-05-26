@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working **at Find All Nepal Pvt Ltd**
 
-- 🌱 I’m currently learning **Django Rest Framework**
+- 🌱 I’m Working on **Django Rest Framework | React.JS | PostGreSQL**
 
 - 👨‍💻 All of my projects are available at [https://nurajpanthi.com.np/](https://nurajpanthi.com.np/)
 
